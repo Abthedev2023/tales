@@ -1,0 +1,88 @@
+body {
+	font-family: Arial, Helvetica, sans-serif;
+	background-color: #f4f4f4;
+	margin: 0px;
+}
+td {
+	color: #000000;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+}
+a {
+	color: #000066;
+}
+a:hover {
+	background-color: #FF9900;
+}
+p {
+	font-family: Arial, Helvetica, sans-serif;
+	margin-top: 4px;
+	margin-bottom: 1px;
+	font-size: 14px;
+}
+hr {
+	color: #990000;
+	height:1px;
+	width:100%;
+	border:0px none #F9D7A4;
+}
+h1 {
+	font-size: 36px;
+}
+h2 {
+	color:#660000;
+	margin-top: 4px;
+	margin-bottom: 2px;
+	font-size: 28px;
+}
+h3 {
+	margin-top: 4px;
+	margin-bottom: 2px;
+	font-size: 24px;
+}
+h4 {
+	margin-top: 4px;
+	margin-bottom: 2px;
+	font-size: 20px;
+}
+h5 {
+	margin-top: 4px;
+	margin-bottom: 2px;
+	font-size: 18px;
+}
+.RoG {
+	font-family: "Comic Sans MS", Georgia, "Times New Roman", Times, serif;
+	font-weight: bold;
+	color: #990000;
+	text-transform: uppercase;
+	margin-top: 2px;
+	margin-bottom: 2px
+}
+.small {
+	font-family: Arial, Helvetica, sans-serif;
+	color: #660000;
+	margin-top: 2px;
+	margin-bottom: 2px;
+	font-size: 12px;
+}
+.red {
+	font-family: Arial, Helvetica, sans-serif;
+	font-weight: bold;
+	color: #990000;
+}
+.DLcomment {
+	font-family: "Comic Sans MS", Georgia, "Times New Roman", Times, serif;
+	font-weight: bold;
+	color: #990000;
+}
+.storyteller {
+	font-family: Arial, Helvetica, sans-serif;
+	font-weight: bold;
+	color: #330033;
+	padding-top: 2px
+}
+.reddate {
+	font-family: Arial;
+	font-weight: bold;
+	color: #990000
+}

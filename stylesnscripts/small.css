@@ -1,0 +1,18 @@
+body, td, p, h5, .RoG, .DLcomment, .storyteller, .reddate  {
+	font-size: x-small;
+}
+h1 {
+	font-size: x-large;
+}
+h2 {
+	font-size: large;
+}
+h3 {
+	font-size: medium;
+}
+h4 {
+	font-size: small;
+}
+.small {
+	font-size: 10px;
+}
